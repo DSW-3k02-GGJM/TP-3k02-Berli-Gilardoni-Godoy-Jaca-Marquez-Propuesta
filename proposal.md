@@ -9,8 +9,8 @@
 * 51419 - Márquez, Matías
 
 ### Repositorios
-* [frontend app](http://hyperlinkToGihubOrGitlab)
-* [backend app](http://hyperlinkToGihubOrGitlab)
+* [frontend app](https://github.com/DSW-3k02-GGJM/TP-3k02-Berli-Gilardoni-Godoy-Jaca-Marquez-FE-App)
+* [backend app](https://github.com/DSW-3k02-GGJM/TP-3k02-Berli-Gilardoni-Godoy-Jaca-Marquez-BE-App)
 *Nota*: si utiliza un monorepo indicar un solo link con fullstack app.
 
 ## Tema
