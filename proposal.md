@@ -40,3 +40,4 @@ Adicionales para Aprobación
 |CRUD |Todos los del MD|
 |CUU/Epic|1. Reservar un vehiculo <br>2. Realizar el check-in de un alquiler <br>3. Realizar checkout de un alquiler <br>4. Cancelar Alquiler <br>5. Envio recordatorio de Alquiler|
 
+Comunicacion con clientes/mail.
