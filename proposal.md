@@ -8,10 +8,10 @@
 * 50311 - Jaca, Juan Pablo
 * 51419 - Márquez, Matías
 
-### Repositorios
-* [frontend app](https://github.com/DSW-3k02-GGJM/TP-3k02-Berli-Gilardoni-Godoy-Jaca-Marquez-FE-App)
-* [backend app](https://github.com/DSW-3k02-GGJM/TP-3k02-Berli-Gilardoni-Godoy-Jaca-Marquez-BE-App)
+### Repositorio
 
+* [frontend|backend app](https://github.com/DSW-3k02-GGJM/TP-3k02-Berli-Gilardoni-Godoy-Jaca-Marquez-App)
+  
 ## Tema
 ### Descripción
  La aplicación a desarrollar pertenece a una empresa que se dedica a el alquiler de vehiculos. La empresa en cuestión es propietaria de una serie de vehiculos con distintas características que pone a disposición de clientes externos.
@@ -38,6 +38,6 @@ Adicionales para Aprobación
 |Req|Detalle|
 |:-|:-|
 |CRUD |Todos los del MD|
-|CUU/Epic|1. Reservar un vehiculo <br>2. Realizar el check-in de un alquiler <br>3. Realizar checkout de un alquiler <br>4. Cancelar Alquiler <br>5. Envio recordatorio de Alquiler<br>6.Comunicacion con clientes/mail.|
+|CUU/Epic|1. Reservar un vehiculo <br>2. Realizar el check-in de un alquiler <br>3. Realizar checkout de un alquiler <br>4. Cancelar Alquiler <br>5. Envio recordatorio de Alquiler<br>6. Comunicacion con clientes/mail.|
 
 
