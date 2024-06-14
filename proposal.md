@@ -17,7 +17,7 @@
  La aplicación a desarrollar pertenece a una empresa que se dedica a el alquiler de vehiculos. La empresa en cuestión es propietaria de una serie de vehiculos con distintas características que pone a disposición de clientes externos.
 
 ### Modelo
-![Desarrollo de Software](https://github.com/DSW-3k02-GGJM/TP-3k02-Berli-Gilardoni-Godoy-Jaca-Marquez-Propuesta/assets/126622905/b2e64f7c-918f-45c9-82c8-2ff5f3c78972)
+![Desarrollo de Software](https://github.com/DSW-3k02-GGJM/TP-3k02-Berli-Gilardoni-Godoy-Jaca-Marquez-Propuesta/assets/126622905/b2e64f7c-918f-45c9-82c8-2ff5f3c78972) (CAMBIAR) (TODO)
 https://app.diagrams.net/#G1T8A3RHq2puBGWPst9cmb9irHvQW6AFIo#%7B%22pageId%22%3A%22C5RBs43oDa-KdzZeNtuy%22%7D
 
 ## Alcance Funcional 
